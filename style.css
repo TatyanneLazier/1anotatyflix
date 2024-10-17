@@ -1,7 +1,11 @@
 body {
     background: rgb(34, 24, 44);
     color:aliceblue;
+    margin: 0px;
 }
 header{
-    border: solid 2px white;
+    border-bottom: solid 2px white;
+    padding: 20px;
+    font-size: 35px;
+    color: aliceblue;
 }
