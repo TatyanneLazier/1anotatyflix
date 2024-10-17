@@ -1,4 +1,5 @@
 body {
-    background: blueviolet;
+    background: rgb(34, 24, 44);
     color:aliceblue;
+    border: solid 2px white;
 }
