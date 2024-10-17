@@ -2,6 +2,7 @@ body {
     background: rgb(34, 24, 44);
     color: aliceblue;
     margin: 0px;
+    font-family: "Roboto", sans-serif;
 }
 
 header {
