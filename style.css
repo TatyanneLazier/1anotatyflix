@@ -1,22 +1,24 @@
 body {
     background: rgb(34, 24, 44);
-    color:aliceblue;
+    color: aliceblue;
     margin: 0px;
-    padding: 10px;
 }
-header{
+
+header {
     border-bottom: solid 2px white;
     padding: 20px;
     font-size: 35px;
     color: aliceblue;
 }
-section{
+
+section {
     background: rgb(197, 100, 100);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-.texto-do-video{
-margin-right: 5%;
+
+.texto-do-video {
+    margin-right: 5%;
 }
